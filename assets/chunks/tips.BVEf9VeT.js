@@ -1,0 +1,1 @@
+import{_ as c,c as s,o as e}from"./framework.Dpoz9nJ7.js";const o={},t={class:"tips"};function _(n,a){return e(),s("div",t," 配置指南的目录结构跟主题配置文件 _config.yml 的配置项保持一一对应，方便查看。 ")}const i=c(o,[["render",_],["__scopeId","data-v-01b8ab62"]]);export{i as T};
